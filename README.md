@@ -31,7 +31,7 @@ console.log(a)
 ---
 
 |sno|name|class|mail|
-|---|---|---|---|
+|---.|---|---|---|
 |1|valli|2|valli@|
 |1|valli|2|valli@|
 |1|valli|2|valli@|
