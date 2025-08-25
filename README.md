@@ -27,3 +27,11 @@ console.log(a)
 >> data
 
 [no img found](happy.jpg)
+~~striked~~
+---
+
+|sno|name|class|mail|
+|---|---|---|---|
+|1|valli|2|valli@|
+|1|valli|2|valli@|
+|1|valli|2|valli@|
