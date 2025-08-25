@@ -26,4 +26,4 @@ console.log(a)
 
 >> data
 
-[no img found]("happy.jpg")
+[no img found](happy.jpg)
